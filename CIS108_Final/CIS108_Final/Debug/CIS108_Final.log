@@ -1,0 +1,4 @@
+﻿  Settings.cpp
+c:\users\elija\source\repos\cis108_final\cis108_final\settings.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\elija\source\repos\cis108_final\cis108_final\settings.cpp(30): warning C4305: '=': truncation from 'double' to 'float'
+  CIS108_Final.vcxproj -> C:\Users\elija\source\repos\CIS108_Final\Debug\CIS108_Final.exe

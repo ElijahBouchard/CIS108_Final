@@ -1,0 +1,53 @@
+﻿  Source.cpp
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(32): error C2065: 'cout': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(33): error C2065: 'cin': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(42): error C2065: 'HANDLE': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(42): error C2146: syntax error: missing ';' before identifier 'hConsole'
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(42): error C2065: 'hConsole': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(42): error C2065: 'GENERIC_READ': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(42): error C2065: 'GENERIC_WRITE': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(42): error C2065: 'CONSOLE_TEXTMODE_BUFFER': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(42): error C3861: 'CreateConsoleScreenBuffer': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(43): error C2065: 'hConsole': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(43): error C3861: 'SetConsoleActiveScreenBuffer': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(44): error C2065: 'DWORD': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(44): error C2146: syntax error: missing ';' before identifier 'dwBytesWritten'
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(44): error C2065: 'dwBytesWritten': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(67): error C2653: 'chrono': is not a class or namespace name
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(67): error C3861: 'now': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(68): error C2653: 'chrono': is not a class or namespace name
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(68): error C3861: 'now': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(73): error C2065: 'FALSE': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(73): error C3861: 'ShowCursor': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(74): error C2653: 'chrono': is not a class or namespace name
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(74): error C3861: 'now': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(75): error C2653: 'chrono': is not a class or namespace name
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(75): error C2065: 'duration': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(75): error C2062: type 'float' unexpected
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(77): error C2065: 'elapsedTime': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(82): error C2065: 'POINT': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(82): error C2146: syntax error: missing ';' before identifier 'p'
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(82): error C2065: 'p': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(83): error C2065: 'p': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(83): error C3861: 'GetCursorPos': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(86): error C2065: 'p': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(89): error C3861: 'GetAsyncKeyState': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(99): error C3861: 'GetAsyncKeyState': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(109): error C3861: 'GetAsyncKeyState': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(121): error C3861: 'GetAsyncKeyState': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(166): error C2065: 'vector': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(166): error C2275: 'std::pair<float,float>': illegal use of this type as an expression
+  c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(166): note: see declaration of 'std::pair<float,float>'
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(166): error C2065: 'p': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(178): error C2065: 'p': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(183): error C2065: 'p': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(183): error C3861: 'sort': identifier not found
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(188): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(189): error C2065: 'p': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(193): error C2065: 'p': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(206): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(295): error C2065: 'hConsole': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(295): error C2065: 'dwBytesWritten': undeclared identifier
+c:\users\elija\source\repos\cis108_final\cis108_final\source.cpp(295): error C3861: 'WriteConsoleOutputCharacter': identifier not found
